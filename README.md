@@ -1,1 +1,3 @@
-# ES6_1
+# ES6
+#
+* prototype-based inheritance - 
